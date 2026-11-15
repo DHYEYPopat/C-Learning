@@ -56,3 +56,4 @@ dkms.conf
 # Local compiled programs
 multiply
 divide
+arithmetic
